@@ -177,24 +177,6 @@ This folder contains:
 
 ---
 
-# ▶️ How To Run Programs
-
-## Compile C Program
-
-```bash
-gcc filename.c -o output
-./output
-```
-
-## Compile C++ Program
-
-```bash
-g++ filename.cpp -o output
-./output
-```
-
----
-
 # 🎓 Learning Objectives
 
 By using this repository, students can:
